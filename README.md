@@ -29,3 +29,6 @@ git status (file status can be untracked, staged, modified, unmodified)
 <br>
 git push origin main (upload local repo contents to remote repo)
 <br>
+git init
+<br>
+git branch
